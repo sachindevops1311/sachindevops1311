@@ -1,0 +1,189 @@
+<svg width="100%" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', 'Ubuntu', 'Helvetica Neue', Arial, sans-serif">
+
+  <!-- Background -->
+  <rect width="800" height="500" rx="16" fill="#0d1117"/>
+
+  <!-- Top accent bar -->
+  <rect x="0" y="0" width="800" height="4" rx="2" fill="#00ff88"/>
+
+  <!-- Grid lines (subtle) -->
+  <line x1="0" y1="60" x2="800" y2="60" stroke="#21262d" stroke-width="0.5"/>
+  <line x1="0" y1="200" x2="800" y2="200" stroke="#21262d" stroke-width="0.5"/>
+  <line x1="0" y1="350" x2="800" y2="350" stroke="#21262d" stroke-width="0.5"/>
+  <line x1="420" y1="60" x2="420" y2="350" stroke="#21262d" stroke-width="0.5"/>
+
+  <!-- ─── HEADER ─── -->
+  <!-- Terminal dots -->
+  <circle cx="32" cy="32" r="6" fill="#ff5f57"/>
+  <circle cx="52" cy="32" r="6" fill="#febc2e"/>
+  <circle cx="72" cy="32" r="6" fill="#28c840"/>
+
+  <!-- Terminal label -->
+  <text x="400" y="37" text-anchor="middle" fill="#8b949e" font-size="12" font-family="'Courier New', monospace">sachindevops1311 — profile.md</text>
+
+  <!-- ─── LEFT PANEL: ABOUT ─── -->
+  <!-- Prompt line -->
+  <text x="28" y="90" fill="#8b949e" font-size="12" font-family="'Courier New', monospace">~/sachin $</text>
+  <text x="100" y="90" fill="#00ff88" font-size="12" font-family="'Courier New', monospace">whoami</text>
+
+  <!-- Name -->
+  <text x="28" y="130" fill="#e6edf3" font-size="26" font-weight="700" letter-spacing="-0.5">Sachin Meena</text>
+
+  <!-- Cursor block -->
+  <rect x="222" y="112" width="3" height="22" fill="#00ff88"/>
+
+  <!-- Tagline -->
+  <text x="28" y="158" fill="#8b949e" font-size="13" font-family="'Courier New', monospace">DevOps Engineer</text>
+  <text x="148" y="158" fill="#8b949e" font-size="13" font-family="'Courier New', monospace"> | </text>
+  <text x="162" y="158" fill="#00ff88" font-size="13" font-family="'Courier New', monospace">Cloud · Containers · CI/CD</text>
+
+  <!-- Location -->
+  <text x="28" y="178" fill="#8b949e" font-size="12" font-family="'Courier New', monospace">India</text>
+
+  <!-- Badges row -->
+  <!-- AWS re/Start badge -->
+  <rect x="28" y="190" width="138" height="22" rx="11" fill="none" stroke="#00ff88" stroke-width="1"/>
+  <text x="97" y="205" text-anchor="middle" fill="#00ff88" font-size="10" font-family="'Courier New', monospace">AWS re/Start Graduate</text>
+
+  <!-- Cloud Practitioner badge -->
+  <rect x="174" y="190" width="136" height="22" rx="11" fill="none" stroke="#58a6ff" stroke-width="1"/>
+  <text x="242" y="205" text-anchor="middle" fill="#58a6ff" font-size="10" font-family="'Courier New', monospace">Cloud Practitioner</text>
+
+  <!-- Oracle badge -->
+  <rect x="318" y="190" width="90" height="22" rx="11" fill="none" stroke="#f78166" stroke-width="1"/>
+  <text x="363" y="205" text-anchor="middle" fill="#f78166" font-size="10" font-family="'Courier New', monospace">OCI Associate</text>
+
+  <!-- ─── CERTIFICATIONS ─── -->
+  <text x="28" y="240" fill="#8b949e" font-size="10" font-weight="700" font-family="'Courier New', monospace" letter-spacing="1.5">CERTIFICATIONS</text>
+
+  <!-- Cert 1: AWS CCP -->
+  <rect x="28" y="252" width="376" height="28" rx="6" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <rect x="28" y="252" width="4" height="28" rx="2" fill="#FF9900"/>
+  <text x="42" y="261" fill="#e6edf3" font-size="12" font-weight="600">AWS Certified Cloud Practitioner</text>
+  <text x="42" y="274" fill="#8b949e" font-size="10" font-family="'Courier New', monospace">Amazon Web Services</text>
+  <rect x="320" y="257" width="60" height="16" rx="8" fill="#0d2818" stroke="#00ff88" stroke-width="0.5"/>
+  <text x="350" y="269" text-anchor="middle" fill="#00ff88" font-size="9" font-family="'Courier New', monospace">CERTIFIED</text>
+
+  <!-- Cert 2: Oracle -->
+  <rect x="28" y="286" width="376" height="28" rx="6" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <rect x="28" y="286" width="4" height="28" rx="2" fill="#f78166"/>
+  <text x="42" y="295" fill="#e6edf3" font-size="12" font-weight="600">Oracle Cloud Infrastructure Associate</text>
+  <text x="42" y="308" fill="#8b949e" font-size="10" font-family="'Courier New', monospace">Oracle Corporation</text>
+  <rect x="320" y="291" width="60" height="16" rx="8" fill="#1d1208" stroke="#f78166" stroke-width="0.5"/>
+  <text x="350" y="303" text-anchor="middle" fill="#f78166" font-size="9" font-family="'Courier New', monospace">CERTIFIED</text>
+
+  <!-- Cert 3: re/Start -->
+  <rect x="28" y="320" width="376" height="28" rx="6" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <rect x="28" y="320" width="4" height="28" rx="2" fill="#58a6ff"/>
+  <text x="42" y="329" fill="#e6edf3" font-size="12" font-weight="600">AWS re/Start Program Graduate</text>
+  <text x="42" y="342" fill="#8b949e" font-size="10" font-family="'Courier New', monospace">Amazon Web Services</text>
+  <rect x="320" y="325" width="60" height="16" rx="8" fill="#0c1a2a" stroke="#58a6ff" stroke-width="0.5"/>
+  <text x="350" y="337" text-anchor="middle" fill="#58a6ff" font-size="9" font-family="'Courier New', monospace">COMPLETED</text>
+
+  <!-- ─── RIGHT PANEL: FOCUS ─── -->
+  <text x="440" y="90" fill="#8b949e" font-size="10" font-weight="700" font-family="'Courier New', monospace" letter-spacing="1.5">CURRENTLY LEARNING</text>
+
+  <!-- CI/CD bar -->
+  <text x="440" y="114" fill="#e6edf3" font-size="12" font-family="'Courier New', monospace">CI/CD Pipelines</text>
+  <text x="760" y="114" text-anchor="end" fill="#00ff88" font-size="11" font-family="'Courier New', monospace">80%</text>
+  <rect x="440" y="120" width="340" height="5" rx="2" fill="#21262d"/>
+  <rect x="440" y="120" width="272" height="5" rx="2" fill="#00ff88"/>
+
+  <!-- Cloud Infra bar -->
+  <text x="440" y="144" fill="#e6edf3" font-size="12" font-family="'Courier New', monospace">Cloud Infrastructure</text>
+  <text x="760" y="144" text-anchor="end" fill="#00ff88" font-size="11" font-family="'Courier New', monospace">70%</text>
+  <rect x="440" y="150" width="340" height="5" rx="2" fill="#21262d"/>
+  <rect x="440" y="150" width="238" height="5" rx="2" fill="#00cc6a"/>
+
+  <!-- Kubernetes bar -->
+  <text x="440" y="174" fill="#e6edf3" font-size="12" font-family="'Courier New', monospace">Kubernetes</text>
+  <text x="760" y="174" text-anchor="end" fill="#00ff88" font-size="11" font-family="'Courier New', monospace">55%</text>
+  <rect x="440" y="180" width="340" height="5" rx="2" fill="#21262d"/>
+  <rect x="440" y="180" width="187" height="5" rx="2" fill="#00a855"/>
+
+  <!-- DevSecOps bar -->
+  <text x="440" y="204" fill="#e6edf3" font-size="12" font-family="'Courier New', monospace">DevSecOps</text>
+  <text x="760" y="204" text-anchor="end" fill="#00ff88" font-size="11" font-family="'Courier New', monospace">35%</text>
+  <rect x="440" y="210" width="340" height="5" rx="2" fill="#21262d"/>
+  <rect x="440" y="210" width="119" height="5" rx="2" fill="#008040"/>
+
+  <!-- ─── TOOLS SECTION ─── -->
+  <text x="440" y="240" fill="#8b949e" font-size="10" font-weight="700" font-family="'Courier New', monospace" letter-spacing="1.5">TOOLS &amp; TECH</text>
+
+  <!-- Row 1 -->
+  <rect x="440" y="250" width="58" height="20" rx="4" fill="#21262d" stroke="#30363d" stroke-width="0.5"/>
+  <text x="469" y="264" text-anchor="middle" fill="#8b949e" font-size="10" font-family="'Courier New', monospace">AWS</text>
+
+  <rect x="504" y="250" width="58" height="20" rx="4" fill="#21262d" stroke="#30363d" stroke-width="0.5"/>
+  <text x="533" y="264" text-anchor="middle" fill="#8b949e" font-size="10" font-family="'Courier New', monospace">Azure</text>
+
+  <rect x="568" y="250" width="58" height="20" rx="4" fill="#21262d" stroke="#30363d" stroke-width="0.5"/>
+  <text x="597" y="264" text-anchor="middle" fill="#8b949e" font-size="10" font-family="'Courier New', monospace">GCP</text>
+
+  <rect x="632" y="250" width="58" height="20" rx="4" fill="#21262d" stroke="#30363d" stroke-width="0.5"/>
+  <text x="661" y="264" text-anchor="middle" fill="#8b949e" font-size="10" font-family="'Courier New', monospace">Docker</text>
+
+  <rect x="696" y="250" width="64" height="20" rx="4" fill="#21262d" stroke="#30363d" stroke-width="0.5"/>
+  <text x="728" y="264" text-anchor="middle" fill="#8b949e" font-size="10" font-family="'Courier New', monospace">Kubernetes</text>
+
+  <!-- Row 2 -->
+  <rect x="440" y="276" width="58" height="20" rx="4" fill="#21262d" stroke="#30363d" stroke-width="0.5"/>
+  <text x="469" y="290" text-anchor="middle" fill="#8b949e" font-size="10" font-family="'Courier New', monospace">Jenkins</text>
+
+  <rect x="504" y="276" width="58" height="20" rx="4" fill="#21262d" stroke="#30363d" stroke-width="0.5"/>
+  <text x="533" y="290" text-anchor="middle" fill="#8b949e" font-size="10" font-family="'Courier New', monospace">Git</text>
+
+  <rect x="568" y="276" width="58" height="20" rx="4" fill="#21262d" stroke="#30363d" stroke-width="0.5"/>
+  <text x="597" y="290" text-anchor="middle" fill="#8b949e" font-size="10" font-family="'Courier New', monospace">Linux</text>
+
+  <rect x="632" y="276" width="58" height="20" rx="4" fill="#21262d" stroke="#30363d" stroke-width="0.5"/>
+  <text x="661" y="290" text-anchor="middle" fill="#8b949e" font-size="10" font-family="'Courier New', monospace">Bash</text>
+
+  <rect x="696" y="276" width="64" height="20" rx="4" fill="#21262d" stroke="#30363d" stroke-width="0.5"/>
+  <text x="728" y="290" text-anchor="middle" fill="#8b949e" font-size="10" font-family="'Courier New', monospace">Python</text>
+
+  <!-- Row 3 -->
+  <rect x="440" y="302" width="58" height="20" rx="4" fill="#21262d" stroke="#30363d" stroke-width="0.5"/>
+  <text x="469" y="316" text-anchor="middle" fill="#8b949e" font-size="10" font-family="'Courier New', monospace">Nginx</text>
+
+  <rect x="504" y="302" width="58" height="20" rx="4" fill="#21262d" stroke="#30363d" stroke-width="0.5"/>
+  <text x="533" y="316" text-anchor="middle" fill="#8b949e" font-size="10" font-family="'Courier New', monospace">Grafana</text>
+
+  <rect x="568" y="302" width="58" height="20" rx="4" fill="#21262d" stroke="#30363d" stroke-width="0.5"/>
+  <text x="597" y="316" text-anchor="middle" fill="#8b949e" font-size="10" font-family="'Courier New', monospace">MySQL</text>
+
+  <rect x="632" y="302" width="58" height="20" rx="4" fill="#21262d" stroke="#30363d" stroke-width="0.5"/>
+  <text x="661" y="316" text-anchor="middle" fill="#8b949e" font-size="10" font-family="'Courier New', monospace">MongoDB</text>
+
+  <rect x="696" y="302" width="64" height="20" rx="4" fill="#21262d" stroke="#30363d" stroke-width="0.5"/>
+  <text x="728" y="316" text-anchor="middle" fill="#8b949e" font-size="10" font-family="'Courier New', monospace">Redis</text>
+
+  <!-- ─── FOOTER ─── -->
+  <rect x="0" y="360" width="800" height="140" rx="0" fill="#161b22"/>
+  <rect x="0" y="360" width="800" height="1" fill="#30363d"/>
+  <rect x="0" y="496" width="800" height="4" rx="2" fill="#21262d"/>
+
+  <!-- Stats left -->
+  <text x="28" y="398" fill="#8b949e" font-size="10" font-family="'Courier New', monospace" letter-spacing="1">CERTIFICATIONS</text>
+  <text x="28" y="428" fill="#00ff88" font-size="30" font-weight="700" font-family="'Courier New', monospace">3</text>
+
+  <line x1="120" y1="375" x2="120" y2="470" stroke="#30363d" stroke-width="0.5"/>
+
+  <text x="140" y="398" fill="#8b949e" font-size="10" font-family="'Courier New', monospace" letter-spacing="1">CLOUD PLATFORMS</text>
+  <text x="140" y="428" fill="#00ff88" font-size="30" font-weight="700" font-family="'Courier New', monospace">3+</text>
+
+  <line x1="240" y1="375" x2="240" y2="470" stroke="#30363d" stroke-width="0.5"/>
+
+  <text x="260" y="398" fill="#8b949e" font-size="10" font-family="'Courier New', monospace" letter-spacing="1">STATUS</text>
+  <rect x="260" y="406" width="80" height="18" rx="9" fill="none" stroke="#00ff88" stroke-width="1"/>
+  <text x="300" y="419" text-anchor="middle" fill="#00ff88" font-size="10" font-family="'Courier New', monospace">Open to Work</text>
+
+  <!-- Contact right -->
+  <text x="440" y="388" fill="#8b949e" font-size="11" font-family="'Courier New', monospace">sachinmeena1311@gmail.com</text>
+  <text x="440" y="410" fill="#58a6ff" font-size="11" font-family="'Courier New', monospace">linkedin.com/in/sachin-meena-682900245</text>
+  <text x="440" y="432" fill="#8b949e" font-size="11" font-family="'Courier New', monospace">github.com/sachindevops1311</text>
+
+  <!-- Bottom line -->
+  <text x="400" y="478" text-anchor="middle" fill="#30363d" font-size="11" font-family="'Courier New', monospace">── DevOps Engineer · AWS · Oracle · Kubernetes ──</text>
+
+</svg>
